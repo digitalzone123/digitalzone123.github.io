@@ -1,0 +1,1 @@
+alert("Hola, bienvenido a Digital Zone")
